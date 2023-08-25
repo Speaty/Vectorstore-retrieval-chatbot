@@ -128,3 +128,6 @@ backend/knowledge_base/
 backend/logs/
 
 backend/keys.py
+
+frontend/node_modules
+
