@@ -122,3 +122,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+backend/knowledge_base/
+
+backend/logs/
+
+backend/keys.py
